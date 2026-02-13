@@ -186,6 +186,7 @@ GET /health
   <img width="955" height="509" alt="image" src="https://github.com/user-attachments/assets/7198b8c2-f6ee-457d-94da-66a0dd9d1a8b" />
 
 - Model Performance Metrics
+  
   <img width="523" height="130" alt="image" src="https://github.com/user-attachments/assets/ac01c8ba-33a8-4a0c-a17b-1c197ae0e47d" />
 
 
