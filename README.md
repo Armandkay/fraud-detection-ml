@@ -7,7 +7,7 @@ Armand Kayiranga
 A machine learning-based credit card fraud detection system that analyzes transactions in real-time to identify potentially fraudulent activity. The system uses Gradient Boosting classification trained on 10,000 transactions to provide instant risk assessment with probability scores and confidence levels.
 
 ## GitHub Repository
-[Link to your GitHub repo - add your actual URL here]
+[https://github.com/Armandkay/fraud-detection-ml.git]
 
 ## Features
 - Real-time transaction fraud detection
@@ -176,11 +176,18 @@ GET /health
 6. **CI/CD**: Set up automated testing and deployment pipeline
 
 ## Screenshots
-[Add screenshots of your web interface here]
 - Fraud Detection Interface
+<img width="953" height="511" alt="image" src="https://github.com/user-attachments/assets/0a7fa602-0845-46fd-a02e-1000e5332214" />
+
 - Fraud Detected Result
+  <img width="830" height="376" alt="Screenshot 2026-02-13 083240" src="https://github.com/user-attachments/assets/5acbbc3c-3e07-4260-a77f-6dd025fab0ca" />
+
 - Safe Transaction Result
+  <img width="955" height="509" alt="image" src="https://github.com/user-attachments/assets/7198b8c2-f6ee-457d-94da-66a0dd9d1a8b" />
+
 - Model Performance Metrics
+  <img width="523" height="130" alt="image" src="https://github.com/user-attachments/assets/ac01c8ba-33a8-4a0c-a17b-1c197ae0e47d" />
+
 
 ## Video Demo
 [Link to video demonstration - 5-10 minutes]
@@ -190,4 +197,4 @@ MIT License
 
 ## Contact
 Armand Kayiranga
-[Your email or contact information]
+[a.kayiranga1@alustudent.com]
