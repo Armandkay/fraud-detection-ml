@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+
+# Database (local dev only — not for production)
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+
+# ML model (large binary — store separately or use Git LFS)
+app/ml/model.pkl
+
+# Data (PaySim CSV is 500MB+)
+data/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
